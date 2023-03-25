@@ -6,11 +6,6 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Apoorva57&theme=algolia&show_icons=true"(https://github.com/Apoorva57/github-readme-stats)
 </div>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoorva57&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Apoorva57" 
-    bg_color=#808080/></p>
 
 ---
 # About Me: A Student, Learner and Developer!
@@ -43,3 +38,10 @@
 [website]: https://github.com/Apoorva57
 [instagram]: https://www.instagram.com/apoorva_.s/?hl=en
 [linkedin]: https://www.linkedin.com/in/apoorva-singh-1b536222b
+
+---
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoorva57&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="Apoorva57" 
+bg_color=#808080/></p>
