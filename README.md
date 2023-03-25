@@ -6,6 +6,7 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Apoorva57&theme=algolia&show_icons=true"(https://github.com/Apoorva57/github-readme-stats)
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva57&layout=compact)](https://github.com/Apoorva57/github-readme-stats)
 
 ---
 # About Me: A Student, Learner and Developer!
