@@ -1,47 +1,36 @@
-### Hi there, I'm Apoorva aka [Apoorva57][website] 👋 
----
-<div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Apoorva57.visitor-badge"/> <img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge" vspace="100" hspace="10"/> 
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apoorva57&theme=algolia&show_icons=true"(https://github.com/Apoorva57/github-readme-stats)
-</div>
+<p align="center">
 
----
-# About Me: A Student, Learner and Developer!
-<img align="right" src="https://user-images.githubusercontent.com/97695341/149590270-7be21eea-6e76-4fbe-96a6-853540d79c60.gif"/>
+<img width="200" height="200" src="https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
 
-  
-* #### Currently pursuing B.Tech in computer science.
-* #### Interested in expanding my skill sets in technical fields.
-* #### I am a budding developer acquiring new skills on a daily. 
-* #### Interested in contributing to the open-source community and look forward to working on projects. 
---- 
-# Hacktoberfest :
+</p>
+# Hi there 👋, I am Apoorva
+
+[![Linkedin Badge](https://img.shields.io/badge/-apoorvasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorva-singh57/)](https://www.linkedin.com/in/apoorva-singh57/)
+[![Gmail Badge](https://img.shields.io/badge/-apoorvas2075@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:apoorvas2075@gmail.com)](mailto:apoorvas2075@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/apoorva57) 
+
+- 🔭 **Currently pursuing B.Tech in computer science.**
+- 🌱 **I’m currently learning machine learning and artificial intelligence.**
+
+**Languages and Tools:**
+<img height="30" src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,git,js,tensorflow,kotlin,dart,flutter,androidstudio,firebase,figma">
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/apoorva57/github-readme-stats)*
+
+![Apoorva's github stats](https://github-readme-stats.vercel.app/api?username=apoorva57&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva57&layout=compact)
+
+## Hacktoberfest :
 [![@apoorva57's Holopin board](https://holopin.me/apoorva57)](https://holopin.io/@apoorva57)
---- 
-# Fun Facts/Hobbies :
-<img align="right" src="https://user-images.githubusercontent.com/97695341/149574638-bdef4f80-0d1c-4b75-8a27-cbb69e55211f.gif"/>
 
-* #### Doing Digital Art :art:.
-* #### Playing Tennis, Chess :tennis: :chess_pawn:.
-* #### Acquiring Knowledge on Robotics :robot:.
-* #### Improving French and Learning Croatian.
-
----
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/apoorva-singh-1b536222b/"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="https://github.com/Apoorva57"><img src= "https://user-images.githubusercontent.com/97695341/149578997-318cd2cb-4217-4ebc-b7f2-00b662cb46d5.jpg"></a>  <a href="https://www.instagram.com/apoorva_.s/?hl=en"><img src= "https://user-images.githubusercontent.com/97695341/149578635-d94bf70e-3582-4cac-b75e-c976218b1247.jpg"></a>
-
-  
-[website]: https://github.com/Apoorva57
-[instagram]: https://www.instagram.com/apoorva_.s/?hl=en
-[linkedin]: https://www.linkedin.com/in/apoorva-singh-1b536222b
-
----
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoorva57&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="Apoorva57" 
-bg_color=#808080/></p>
+## GirlScript Summer of Code :
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+</div>
