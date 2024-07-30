@@ -1,8 +1,3 @@
-<p align="center">
-
-<img width="200" height="200" src="https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
-
-</p>
 # Hi there 👋, I am Apoorva
 
 [![Linkedin Badge](https://img.shields.io/badge/-apoorvasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorva-singh57/)](https://www.linkedin.com/in/apoorva-singh57/)
